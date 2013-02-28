@@ -8,4 +8,4 @@ The two functions to use are:
 static const char *fparseIncludes(const char *filename)
 static const char *parseIncludes(const char *text)
 
-where fparseIncldues takes the name of a file and parseIncludes takes a bunch of text (the content of a previously opened file for example).
+Where fparseIncludes takes the name of a file and parseIncludes takes a bunch of text (the content of a previously opened file for example).
